@@ -20,7 +20,7 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5 );
     font-size: 8vmin;
-    color: rgb(233, 149, 39);
+    color: rgb(232, 149, 39);
     background-color: antiquewhite;
 }
 .game{
